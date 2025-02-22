@@ -1,0 +1,14 @@
+# IntelliJ files
+.idea
+
+# Mac files
+.DS_Store
+
+# IDE specific virtual env
+*venv/*
+
+# Virtual Environments
+machinelearning-python
+
+# pycache
+__pycache__
