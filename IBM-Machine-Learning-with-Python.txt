@@ -1,0 +1,69 @@
+Module 1 - Introduction to Machine Learning:
+- An Overview of Machine Learning
+- Machine Learning Model Lifecycle
+- A Day in the life of a Machine Learning Engineer
+- Data Scientist vs AI Engineer
+- Tools for Machine Learning
+- Scikit-learn Machine Learning Ecosystem
+
+Module 2 - Linear and Logistic Regression:
+- Introduction to Regression
+- Introduction to Simple Linear Regression
+- Lab: Simple Linear Regression
+- Multiple Linear Regression
+- Lab: Multiple Linear Regression
+- Polynomial and Non-Linear Regression
+- Introduction to Logistic Regression
+- Training a Logistic Regression Model
+- Lab: Logistic Regression
+
+Module 3 - Building Supervised Learning Models
+- Classification and Regression
+    -- Classification  
+    -- Lab: Multi-class Classification
+    -- Decision Trees 
+    -- Lab: Decision Trees 
+    -- Regression Trees 
+    -- Lab: Regression Trees
+- Other Supervised Learning Models
+    -- Supervised Learning with SVMs
+    -- Lab: Credit Card Fraud Detection with Decision Trees and SVM
+    -- Supervised Learning with KNN
+    -- Lab: K-Nearest Neighbors Classifier
+    -- Bias, Variance, and Ensemble Models
+    -- Lab: Random Forests and XGBoost    
+
+Module 4 - Building Unsupervised Learning Models
+- Clustering
+    -- Clustering Strategies and Real-World Applications  
+    -- K-means and More on K-means
+    -- Lab: K-Means
+    -- DBSCAN and HDBSCAN Clustering
+    -- Lab: Comparing DBSCAN and HDBSCAN
+- Dimension Reduction & Feature Engineering
+    -- Clustering, Dimension Reduction & Feature Engineering  
+    -- Dimension Reduction Algorithms
+    -- Lab: Applications of Principle Component Analysis (PCA)
+    -- Lab: t-SNE and UMAP
+
+Module 5 - Evaluating and Validating Machine Learning Models
+- Evaluating Machine Learning Models
+    -- Classification Metrics and Evaluation Techniques  
+    -- Lab: Evaluating Classification Models
+    -- Regression Metrics and Evaluation Techniques
+    -- Lab: Evaluating Random Forest Performance
+    -- Evaluating Unsupervised Learning Models: Heuristics and Techniques
+    -- Lab: Evaluating K-means Clustering
+- Best Practices for Ensuring Model Generalizability
+    -- Cross-Validation and Advanced Model Validation Techniques
+    -- Regularization in Regression and Classification
+    -- Lab: Regularization in Linear Regression
+    -- Data Leakage and Other Pitfalls
+    -- Lab: Machine Learning Pipelines and GridSearchCV
+
+Module 6 - Final Project and Exam
+- Final Project 
+    -- Practice Project: Titanic Survival Prediction
+    -- Final Project: Building a Rainfall Prediction Classifier 
+    -- Final Project Submission and Evaluation   
+- Course Summary and Final Exam
